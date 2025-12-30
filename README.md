@@ -1,5 +1,5 @@
 # 📌 O projekcie (english below)
-To repozytorium zawiera kod źródłowy aplikacji **mObywatel**, który został udostępniony przez Ministerstwo Cyfryzacji (COI) 29 grudnia 2025 roku. Więcej infromacji: [gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela](https://www.gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela)
+To repozytorium zawiera kod źródłowy aplikacji **mObywatel**, który został udostępniony przez Ministerstwo Cyfryzacji (COI) 29 grudnia 2025 roku. Więcej infromacji: [gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela](https://www.gov.pl/web/cyfryzacja/ministerstwo-cyfryzacji-opublikowalo-kod-zrodlowy-mobywatela). Struktura katalogów jest taka sama jak na stronie, nic nie dodane, nic nie usunięte. W `/` repo jedyne pliki niepobrane ze strony to `.gitattributes, LICENSE.md, README.md`.
 
 **Wkrótce dam link do repozytorium z kodem na iOS.**
 
